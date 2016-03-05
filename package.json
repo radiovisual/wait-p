@@ -19,7 +19,13 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "wait",
+    "sleep",
+    "stop",
+    "halt",
+    "time",
+    "milliseconds",
+    "promise"
   ],
   "dependencies": {
     "native-promise-only": "^0.8.1"
