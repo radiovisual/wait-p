@@ -1,0 +1,31 @@
+{
+  "name": "wait-p",
+  "version": "0.0.0",
+  "description": "Wait for a specified amount of time, then return a promise.",
+  "license": "MIT",
+  "repository": "radiovisual/wait-p",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "native-promise-only": "^0.8.1"
+  },
+  "devDependencies": {
+    "ava": "^0.11.0",
+    "xo": "^0.12.1"
+  }
+}
