@@ -1,6 +1,6 @@
 {
   "name": "wait-p",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Wait for a specified amount of time, then return a promise.",
   "license": "MIT",
   "repository": "radiovisual/wait-p",
